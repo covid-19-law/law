@@ -2,7 +2,7 @@
  "signatures": [
   {
    "keyid": "c98e4b4a448749da3fc2c74cbec3d5f898a3e2ed866357a9a196f90957e2837b",
-   "sig": "0202d227c29081af7e56c2e18ec9f5bceaccc3612a028cc91691dd19ccc3bb8f5ace405a2e12e8900cd74ed24820d931887bf41a2f17e90c755c1afacb2d6194ebf9f36bec95ffb3f09edf7016e05ec86c54d139bbeb7029c4947976ae8651b7640eceedb70647aeba4c46bc0b8dab8806ddadecac69c6c720c05b87ffb3c301455de81dee1a09e58e377d8bd8d24dd815e9f4f6f50a576bf62e15d2ef2bc6afe8ff4ac0a95f193fce80bd25950fb61fb6d681427f3f9533a4be5958220b58a960d535fbade11c81827ccd46320afa4be705a38acca468f95c9cabeafe7f34b41b5ceb4f02833d7120ce476d9f399fb25a4d7df89398440698cc2ad38cc9b4d4"
+   "sig": "68d54b4e9585d4d86bd7bff2b469f4852eafb227f7601cfb545d8b8eac7e75046d4201f0724ad06fc208eac10f4cc42c68de3f910df97887e01fc7afeaa42d5b66b977b7bb4176836793310fc1b45a3aa5b2451857af2e7c2dcd77bceb16ee481f53592b56feaf600c064537f72e9dd2eeb5be0bd8ab6d987bf78666039a4bd20921c90620f40f02947c96ea3414fef4807e92f98aa9b31844b554b4241c4f0e0a4a8e8544f194c8b382856366332dec64328a51411e6d4a726efaab195eebeee01b6400727848afe7f9de762d78b1bd0c09b67fe05aa1ec4976b5ad8299f601bb5cb0b9861bdcca31bf2b86da4feee0d65f4b38414933f894042e0506c85c42"
   }
  ],
  "signed": {
@@ -11,7 +11,7 @@
    "keys": {},
    "roles": []
   },
-  "expires": "2020-06-30T15:43:54Z",
+  "expires": "2020-06-30T15:43:56Z",
   "spec_version": "1.0",
   "targets": {
    "branch": {
@@ -30,10 +30,10 @@
    },
    "covid-19-law/law-html": {
     "hashes": {
-     "sha256": "49576e70bbe99c6008792194efc011a713cade22dadc560e8ff7a2c6fa91ab4c",
-     "sha512": "34c5baf48f1938682c1ad12aa251235be4ab6ce4bedfc4fb63f6e0bb5c5f3c8384c4edc1cab69c1c69b7f40bb3f0c5aadee1671adaba150a605761afaa459420"
+     "sha256": "ba628398a08ed2b520996414bcaa2e9dfad51bc223dec1a0080e349ca7adda0d",
+     "sha512": "f9bf13405d56aa01fa97b224692d9440e99c4ecde093f180336dd0820832a50c0a3086b0152a813b4351da622637f7a020fa59f6753ca87968b7f470faf0e906"
     },
-    "length": 135
+    "length": 170
    },
    "covid-19-law/law-xml": {
     "hashes": {
@@ -44,10 +44,10 @@
    },
    "covid-19-law/law-xml-codified": {
     "hashes": {
-     "sha256": "49576e70bbe99c6008792194efc011a713cade22dadc560e8ff7a2c6fa91ab4c",
-     "sha512": "34c5baf48f1938682c1ad12aa251235be4ab6ce4bedfc4fb63f6e0bb5c5f3c8384c4edc1cab69c1c69b7f40bb3f0c5aadee1671adaba150a605761afaa459420"
+     "sha256": "e0bf61735442d3801dc62d49a40091ed931aca6ce14dab4a3f26a0ac2c16d2f3",
+     "sha512": "0d299c1a6747eb4257d3af1918df503a2e3a8dc35158446aff58b92931fb812aa343b0bd6ebcca1b6bc7a7acd53744a787003e25936949f588c0e89611e15664"
     },
-    "length": 135
+    "length": 170
    },
    "repositories.json": {
     "hashes": {
@@ -57,6 +57,6 @@
     "length": 1140
    }
   },
-  "version": 113
+  "version": 114
  }
 }
